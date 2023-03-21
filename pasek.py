@@ -37,5 +37,4 @@ def main():
     pasek1 = Pasek()
 
 # you have to make another file and import this class.
-# Language i made it: Python
-# Polska / Poland  
+# Language i've made it: Python
