@@ -1,4 +1,4 @@
-# Pasek ładowania
+#IMPORTS
 
 import time
 import urllib.request
@@ -9,6 +9,9 @@ import time
 from datetime import datetime, timedelta
 import threading
 import time
+
+
+# CLASS AND DEFS
 
 class Pasek:
     def __init__(self, znak = '#' , start = 0, szerokosc = 10, pusto = '-'):
