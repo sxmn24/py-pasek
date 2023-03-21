@@ -4,7 +4,14 @@
 
 -------------------------------------------------------------------------------------------------
 
-IF YOU ARE READING THIS JUST NOW THAT IF YOU WANT TO RUN THIS PROJECT YOU HAVE TO TYPE THIS CODE:
+WELCOME,
+HERE YOU HAVE SOME STEPS HOW TO RUN THAT PROJECT:
+
+1: OPEN VSC (OR OTHER APP)
+2: COPY THAT CODE AND PASTE THAT ON YOUR CLEAR FILE
+3: IF YOU'VE DONE THAT DOWNLOAD FILE MAIN AND RUN YOUR PROJECT.
+
+GOOD LUCK.
 
 -------------------------------------------------------------------------------------------------
 
