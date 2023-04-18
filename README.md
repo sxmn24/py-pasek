@@ -5,24 +5,7 @@
 -------------------------------------------------------------------------------------------------
 
 WELCOME,
-HERE YOU HAVE SOME STEPS HOW TO RUN THAT PROJECT:
 
-1: OPEN VSC (OR OTHER APP YOU USING)
-2: COPY THAT CODE AND PASTE IT ON YOUR FILE
-3: IF YOU'VE DONE THAT DOWNLOAD FILE MAIN AND RUN YOUR PROJECT.
-
--------------------------------------------------------------------------------------------------
-
-from pasek import Pasek
-from os import get_terminal_size
-from time import sleep
-
-szerokosc = get_terminal_size()[0]
-
-pasek = Pasek(szerokosc=szerokosc / 2)
-for i in range (50):
-    pasek.dalej(procent=i/50)
-    sleep(0.1)
-pasek.koniec()
-
+It's just normal READ ME file, because everyone is not reading it :> 
+Have Fun with code.
 -------------------------------------------------------------------------------------------------
